@@ -1,23 +1,29 @@
 # portifolio-javascript
 
-Portifólio criado com a aula do professor @joaocarloslima
+Portifólio criado com a aula do professor @joaocarloslima para estudo de Html, Css e Git.
 
-> status: Criando
-
-## Icones
-
-:package: nova atualização
-:up: atualização
-:beatle: correção de bug
-:checkered_flag: release
-
-## Cores
-
-+ #8a2be2
+> status: Developing ⚠️
 
 ## Tarefas
 
 O controle de tarefas desse projeto será realizado no Github
+
+## Icones
+
+- :package: nova atualização
+- :up: atualização
+- :beetle: correção de bug
+- :checkered_flag: release
+
+## Ultimas atualizações
+
+* initial commit
+* estrutura inicial dos arquivos
+* header
+
+## Cores
+
++ #8a2be2
 
 ## Sites usados
 

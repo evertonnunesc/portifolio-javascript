@@ -33,3 +33,4 @@ O controle de tarefas desse projeto será realizado no Github
 * Fotos - https://unsplash.com/
 * Gradiente - https://uigradients.com/#UltraVoilet
 * Emojis - https://www.webfx.com/tools/emoji-cheat-sheet/
+* imagens - https://undraw.co/search

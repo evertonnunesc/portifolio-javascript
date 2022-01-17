@@ -20,6 +20,9 @@ O controle de tarefas desse projeto será realizado no Github
 * initial commit
 * estrutura inicial dos arquivos
 * header
+* menu sidebar
+* correção da semantica do menu (div > aside)
+* sessão conhecimentos
 
 ## Cores
 

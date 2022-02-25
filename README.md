@@ -4,6 +4,9 @@ Portifólio criado com a aula do professor @joaocarloslima para estudo de Html, 
 
 > status: Developing ⚠️
 
+Link para visualização:
+(https://evertonnunesc.github.io/portifolio-javascript/)
+
 ## Tarefas
 
 O controle de tarefas desse projeto será realizado no Github
